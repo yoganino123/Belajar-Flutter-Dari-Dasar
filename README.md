@@ -4,7 +4,6 @@ Belajar Flutter Dari Dasar
 
 # Part 1
 
-<!--
 1. hello_world
 2. variable
 3. komentar
@@ -22,5 +21,3 @@ Belajar Flutter Dari Dasar
 15. Set
 16. Map
 17. Symbol
-
- -->
