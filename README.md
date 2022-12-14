@@ -51,3 +51,11 @@ PART 2
 40. Recursive Function
 
 # DART OOP
+
+PART 1
+
+1. Class
+2. Abstract class dan interface
+3. Mixin
+
+Terimakasih
