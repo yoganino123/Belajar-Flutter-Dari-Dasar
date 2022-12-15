@@ -58,4 +58,6 @@ PART 1
 2. Abstract class dan interface
 3. Mixin
 
-Terimakasih
+PART 2 4. Asynchronous 5. Enum
+
+TERIMAKASIH
